@@ -263,7 +263,7 @@ body {
 and (min-device-width : 320px) 
 and (max-device-width : 480px) {
     #iframe {
-        width: 320px;
+        width: 330px;
         height: 400px;
     }
 }
