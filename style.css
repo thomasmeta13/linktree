@@ -94,9 +94,7 @@ body {
     width: 630px;
     height: 400px;
 }
-#iframe1 {
-    display: none;
-}
+
 
 @media (hover: hover) {
     .link:hover {
